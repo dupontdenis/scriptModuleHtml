@@ -1,1 +1,1 @@
-use type module
+use type module (defer is not necessary)
