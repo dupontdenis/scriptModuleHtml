@@ -5,7 +5,7 @@ function component() {
   const element = document.createElement('div');
 
   // use your function!
-  element.textContent = myName('Cody');
+  element.textContent = myName('Miage4Ever');
   return element;
 }
 
